@@ -1,0 +1,13 @@
+# Real business data — not for public distribution.
+# Use demo_data/demo_data.xlsx (synthetic) instead to try the program.
+BH_handlowcy.xlsx
+"dys plus handlowcy 2025_poprawione.xlsx"
+dys plus handlowcy 2025_poprawione.xlsx
+zbr 2025.xlsx
+zbr_warszawa_2027.xlsx
+
+# Output generated from real data — regenerate locally, don't publish.
+/logistics_network_map.html
+
+# Editor/IDE clutter
+.vs/
