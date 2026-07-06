@@ -40,6 +40,8 @@ so you can see exactly how it was built. `demo_data/logistics_network_map_demo.h
 is the pre-built output — open it directly in a browser to see the program
 working without installing anything.
 
+![Demo map — routes, tonnage, and warehouse breakdown for the synthetic dataset](demo_data/screenshot.png)
+
 To regenerate it yourself:
 
 ```bash
